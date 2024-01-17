@@ -18,4 +18,4 @@
 > - Engineering design notebook
 > - Laptop or desktop computer
 > - Inexpensive filament for prototyping
-> - 3D printer (preferably a newer generation high-speed printer)
+> - 3D printer (ideally a newer generation high-speed  3D printer)
