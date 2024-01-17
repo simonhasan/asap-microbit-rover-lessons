@@ -39,7 +39,7 @@
 
 - Guide students to create a 3D model of the chassis in Tinkercad. Ensure that the model matches the specifications of the diagram in their notebook.
 
-![tinkercad-chassis](/Users/simon/Documents/GitHub/microbit-rover-lessons/docs/lessons/assets/tinkercad-chassis.png)
+![tinkercad-chassis](assets/tinkercad-chassis.png)
 
 - Oversee the 3D printing of the chassis. If a print job fails, encourage students to troubleshoot and revise their design.
 
