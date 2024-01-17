@@ -78,13 +78,13 @@ Filament can be expensive. Luckily, Voxel offers inexpensive filament that works
 
 The two examples below can be used as follow-up lessons or extensions to the lesson. It may be the case that the students' designs may require one of these modifications.
 
-#### Creating Holes for Recessed Nuts
+### Creating Holes for Recessed Nuts
 
 Using the same materials from this lesson, students can create holes to recess the nuts to create a flat surface for other components.
 
 ![m3-bolt-recessed](assets/m3-bolt-recessed.png)
 
-#### Created Holes for Recessed Bolts
+### Created Holes for Recessed Bolts
 
 One possible lesson that can be directly modeled after this is one where students create recessed holes for the M3 bolts. This can help to tighten the bolt without a tool and create a surface without protrusions.
 
@@ -92,7 +92,7 @@ One possible lesson that can be directly modeled after this is one where student
 
 Students can use a datasheet to create the recess holes in their engineering design notebook.
 
-![m3-nut](/Users/simon/Documents/GitHub/microbit-rover-lessons/docs/differentiation/assets/m3-nut.jpg)
+![datasheet-m3-nut](assets/datasheet-m3-nut.jpg)
 
 :::{note}
 Tinkercad does not scale objects uniformly. Students will have to calculate the ratio. This is an excellent opportunity to integrate mathematics in the lesson.
@@ -100,7 +100,7 @@ Tinkercad does not scale objects uniformly. Students will have to calculate the 
 
 The image below demonstrates the height-to-width and width-to-height ratio of a regular hexagon:
 
-![hexagon-ratios](/Users/simon/Documents/GitHub/microbit-rover-lessons/docs/differentiation/assets/hexagon-ratios.png)
+![hexagon-ratios](assets/hexagon-ratios.png)
 
 The hexagon on the left has a $\frac{2}{\sqrt{3}}:1$ or $1.1547:1$ ratio. The hexagon on the right has a $1:\frac{\sqrt{3}}{2}$ or $1:0.8660$ ratio. Below is a hexagon in Tinkercad with the default values.
 
