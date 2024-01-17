@@ -36,7 +36,7 @@ M3 bolts have been chosen for this design project because they fit most of the m
 
 ## Types of M3 Nuts
 
-There are a variety of heads for M3 nuts available. The shape of the head TODO.
+There are a variety of heads for M3 nuts available. The shape of the head varies according to the intended use of the bolt. Some bolts have a head. that requires tools that are uncommon to discourage the removal of the bolt. Some have a head optimized so they can be removed by hand. Other bolts have a head that reduces the profile of the bolt.
 
 ![m3-nut-heads](assets/m3-nut-heads.png)
 
@@ -46,7 +46,7 @@ There are a variety of heads for M3 nuts available. The shape of the head TODO.
 
 ### M3 Bolts
 
-M3 bolt sets are available on Amazon. These bolts are more expensive and may contain sizes that are not necessary for the project. The bolts on Amazon do not have a diagram or datasheet. Sourcing bolts from Aliexpress is more affordable. You can buy the sizes needed, and the vendors often include the specifications of the bolts in the images that can be screen-captured for distribution. The only drawback to Aliexpress is that it takes longer to deliver the items.
+M3 bolt sets are available on Amazon. These bolts are more expensive and may contain sizes that are not necessary for the project. Furthermore, the bolts on Amazon do not have a diagram or datasheet. Sourcing bolts from Aliexpress is more affordable. You can buy the right amount of specific sizes needed at a lower cost. The vendors often include the specifications of the bolts in the images that can be screen-captured for distribution. The only drawback to Aliexpress is that it takes longer to deliver the items.
 
 ### 3D Printers
 
@@ -68,6 +68,57 @@ Here are some high-speed 3D printers:
 
 ### Filament
 
-Filament can be expensive. Luckily, there is a brand that offers inexpensive filament and discounts when purchasing 3 or more spools:
+Filament can be expensive. Luckily, Voxel offers inexpensive filament that works well with high-speed 3D printing. They offer discounts when purchasing 3 or more spools:
 
 [Voxel](https://voxelpla.com/)
+
+---
+
+## Follow-Up Lessons or Extensions
+
+The two examples below can be used as follow-up lessons or extensions to the lesson. It may be the case that the students' designs may require one of these modifications.
+
+#### Creating Holes for Recessed Nuts
+
+Using the same materials from this lesson, students can create holes to recess the nuts to create a flat surface for other components.
+
+![m3-bolt-recessed](assets/m3-bolt-recessed.png)
+
+#### Created Holes for Recessed Bolts
+
+One possible lesson that can be directly modeled after this is one where students create recessed holes for the M3 bolts. This can help to tighten the bolt without a tool and create a surface without protrusions.
+
+![m3-nut-recessed](assets/m3-nut-recessed.png)
+
+Students can use a datasheet to create the recess holes in their engineering design notebook.
+
+![m3-nut](/Users/simon/Documents/GitHub/microbit-rover-lessons/docs/differentiation/assets/m3-nut.jpg)
+
+:::{note}
+Tinkercad does not scale objects uniformly. Students will have to calculate the ratio. This is an excellent opportunity to integrate mathematics in the lesson.
+::: 
+
+The image below demonstrates the height-to-width and width-to-height ratio of a regular hexagon:
+
+![hexagon-ratios](/Users/simon/Documents/GitHub/microbit-rover-lessons/docs/differentiation/assets/hexagon-ratios.png)
+
+The hexagon on the left has a $\frac{2}{\sqrt{3}}:1$ or $1.1547:1$ ratio. The hexagon on the right has a $1:\frac{\sqrt{3}}{2}$ or $1:0.8660$ ratio. Below is a hexagon in Tinkercad with the default values.
+
+![tinkercad-hexagon-01](assets/tinkercad-hexagon-01.jpg)
+
+If the width was changed from $17.32$ to $20$ it is no longer a regular hexagon.
+
+![tinkercad-hexagon-02](assets/tinkercad-hexagon-02.jpg)
+
+To make the irregular hexagon above to a regular hexagon, the height would be the width $20\frac{2}{\sqrt{3}}\approx20\cdot1.1547\approx23.094$. Tinkercad only has decimals to the hundredth. Changing the height to 23.09 makes the hexagon closer to a regular hexagon.
+
+![tinkercad-hexagon-03](assets/tinkercad-hexagon-03.jpg)
+
+Similarly, the height of the hexagon below was changed to $30$.
+
+![tinkercad-hexagon-04](assets/tinkercad-hexagon-04.jpg)
+
+The width would be $30\frac{\sqrt{3}}{2}\approx30\cdot0.866\approx25.98$.
+
+![tinkercad-hexagon-05](assets/tinkercad-hexagon-05.jpg)
+
