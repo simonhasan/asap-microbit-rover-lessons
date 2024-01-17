@@ -14,7 +14,7 @@ parts:
     - file: assessment/assessment-01
     - file: differentiation/differentiation-01
     - file: support-materials/support-materials-01
-  - caption: "Lesson 2: Designing a Motor Bracker"
+  - caption: "Lesson 2: Designing a Motor Bracket"
     chapters:
     - file: intros/intro-02
     - file: teacher-notes/teacher-notes-02

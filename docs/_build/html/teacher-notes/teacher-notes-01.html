@@ -62,6 +62,8 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'teacher-notes/teacher-notes-01';</script>
     <link rel="shortcut icon" href="../_static/logo.ico"/>
     <link rel="index" title="Index" href="../genindex.html" />
@@ -188,7 +190,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../differentiation/differentiation-01.html">Differentiation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../support-materials/support-materials-01.html">Support Materials</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Lesson 2: Designing a Motor Bracker</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Lesson 2: Designing a Motor Bracket</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../intros/intro-02.html">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="teacher-notes-02.html">Notes for Teacher</a></li>
@@ -437,6 +439,11 @@ document.write(`
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#filament">Filament</a></li>
 </ul>
 </li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#follow-up-lessons-or-extensions">Follow-Up Lessons or Extensions</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#creating-holes-for-recessed-nuts">Creating Holes for Recessed Nuts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#created-holes-for-recessed-bolts">Created Holes for Recessed Bolts</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -482,14 +489,14 @@ document.write(`
 </section>
 <section id="types-of-m3-nuts">
 <h2>Types of M3 Nuts<a class="headerlink" href="#types-of-m3-nuts" title="Permalink to this heading">#</a></h2>
-<p>There are a variety of heads for M3 nuts available. The shape of the head TODO.</p>
+<p>There are a variety of heads for M3 nuts available. The shape of the head varies according to the intended use of the bolt. Some bolts have a head. that requires tools that are uncommon to discourage the removal of the bolt. Some have a head optimized so they can be removed by hand. Other bolts have a head that reduces the profile of the bolt.</p>
 <p><img alt="m3-nut-heads" src="../_images/m3-nut-heads.png" /></p>
 </section>
 <section id="sourcing-materials">
 <h2>Sourcing Materials<a class="headerlink" href="#sourcing-materials" title="Permalink to this heading">#</a></h2>
 <section id="m3-bolts">
 <h3>M3 Bolts<a class="headerlink" href="#m3-bolts" title="Permalink to this heading">#</a></h3>
-<p>M3 bolt sets are available on Amazon. These bolts are more expensive and may contain sizes that are not necessary for the project. The bolts on Amazon do not have a diagram or datasheet. Sourcing bolts from Aliexpress is more affordable. You can buy the sizes needed, and the vendors often include the specifications of the bolts in the images that can be screen-captured for distribution. The only drawback to Aliexpress is that it takes longer to deliver the items.</p>
+<p>M3 bolt sets are available on Amazon. These bolts are more expensive and may contain sizes that are not necessary for the project. Furthermore, the bolts on Amazon do not have a diagram or datasheet. Sourcing bolts from Aliexpress is more affordable. You can buy the right amount of specific sizes needed at a lower cost. The vendors often include the specifications of the bolts in the images that can be screen-captured for distribution. The only drawback to Aliexpress is that it takes longer to deliver the items.</p>
 </section>
 <section id="d-printers">
 <h3>3D Printers<a class="headerlink" href="#d-printers" title="Permalink to this heading">#</a></h3>
@@ -504,8 +511,41 @@ document.write(`
 </section>
 <section id="filament">
 <h3>Filament<a class="headerlink" href="#filament" title="Permalink to this heading">#</a></h3>
-<p>Filament can be expensive. Luckily, there is a brand that offers inexpensive filament and discounts when purchasing 3 or more spools:</p>
+<p>Filament can be expensive. Luckily, Voxel offers inexpensive filament that works well with high-speed 3D printing. They offer discounts when purchasing 3 or more spools:</p>
 <p><a class="reference external" href="https://voxelpla.com/">Voxel</a></p>
+</section>
+</section>
+<hr class="docutils" />
+<section id="follow-up-lessons-or-extensions">
+<h2>Follow-Up Lessons or Extensions<a class="headerlink" href="#follow-up-lessons-or-extensions" title="Permalink to this heading">#</a></h2>
+<p>The two examples below can be used as follow-up lessons or extensions to the lesson. It may be the case that the students’ designs may require one of these modifications.</p>
+<section id="creating-holes-for-recessed-nuts">
+<h3>Creating Holes for Recessed Nuts<a class="headerlink" href="#creating-holes-for-recessed-nuts" title="Permalink to this heading">#</a></h3>
+<p>Using the same materials from this lesson, students can create holes to recess the nuts to create a flat surface for other components.</p>
+<p><img alt="m3-bolt-recessed" src="../_images/m3-bolt-recessed.png" /></p>
+</section>
+<section id="created-holes-for-recessed-bolts">
+<h3>Created Holes for Recessed Bolts<a class="headerlink" href="#created-holes-for-recessed-bolts" title="Permalink to this heading">#</a></h3>
+<p>One possible lesson that can be directly modeled after this is one where students create recessed holes for the M3 bolts. This can help to tighten the bolt without a tool and create a surface without protrusions.</p>
+<p><img alt="m3-nut-recessed" src="../_images/m3-nut-recessed.png" /></p>
+<p>Students can use a datasheet to create the recess holes in their engineering design notebook.</p>
+<p><img alt="datasheet-m3-nut" src="../_images/datasheet-m3-nut.jpg" /></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Tinkercad does not scale objects uniformly. Students will have to calculate the ratio. This is an excellent opportunity to integrate mathematics in the lesson.</p>
+</div>
+<p>The image below demonstrates the height-to-width and width-to-height ratio of a regular hexagon:</p>
+<p><img alt="hexagon-ratios" src="../_images/hexagon-ratios.png" /></p>
+<p>The hexagon on the left has a <span class="math notranslate nohighlight">\(\frac{2}{\sqrt{3}}:1\)</span> or <span class="math notranslate nohighlight">\(1.1547:1\)</span> ratio. The hexagon on the right has a <span class="math notranslate nohighlight">\(1:\frac{\sqrt{3}}{2}\)</span> or <span class="math notranslate nohighlight">\(1:0.8660\)</span> ratio. Below is a hexagon in Tinkercad with the default values.</p>
+<p><img alt="tinkercad-hexagon-01" src="../_images/tinkercad-hexagon-01.jpg" /></p>
+<p>If the width was changed from <span class="math notranslate nohighlight">\(17.32\)</span> to <span class="math notranslate nohighlight">\(20\)</span> it is no longer a regular hexagon.</p>
+<p><img alt="tinkercad-hexagon-02" src="../_images/tinkercad-hexagon-02.jpg" /></p>
+<p>To make the irregular hexagon above to a regular hexagon, the height would be the width <span class="math notranslate nohighlight">\(20\frac{2}{\sqrt{3}}\approx20\cdot1.1547\approx23.094\)</span>. Tinkercad only has decimals to the hundredth. Changing the height to 23.09 makes the hexagon closer to a regular hexagon.</p>
+<p><img alt="tinkercad-hexagon-03" src="../_images/tinkercad-hexagon-03.jpg" /></p>
+<p>Similarly, the height of the hexagon below was changed to <span class="math notranslate nohighlight">\(30\)</span>.</p>
+<p><img alt="tinkercad-hexagon-04" src="../_images/tinkercad-hexagon-04.jpg" /></p>
+<p>The width would be <span class="math notranslate nohighlight">\(30\frac{\sqrt{3}}{2}\approx30\cdot0.866\approx25.98\)</span>.</p>
+<p><img alt="tinkercad-hexagon-05" src="../_images/tinkercad-hexagon-05.jpg" /></p>
 </section>
 </section>
 </section>
@@ -582,6 +622,11 @@ document.write(`
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#m3-bolts">M3 Bolts</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#d-printers">3D Printers</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#filament">Filament</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#follow-up-lessons-or-extensions">Follow-Up Lessons or Extensions</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#creating-holes-for-recessed-nuts">Creating Holes for Recessed Nuts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#created-holes-for-recessed-bolts">Created Holes for Recessed Bolts</a></li>
 </ul>
 </li>
 </ul>
