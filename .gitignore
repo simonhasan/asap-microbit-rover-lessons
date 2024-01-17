@@ -1,2 +1,4 @@
 # Conda environment
 .conda
+# macOS folder attributes
+.DS_Store

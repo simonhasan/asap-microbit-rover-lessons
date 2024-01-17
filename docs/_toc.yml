@@ -1,0 +1,56 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: "Lesson 1: Designing M3 Bolt Test Pieces"
+    chapters:
+    - file: intros/intro-01
+    - file: teacher-notes/teacher-notes-01
+    - file: materials/materials-01
+    - file: standards-objectives/standards-objectives-01
+    - file: lessons/lesson-01
+    - file: assessment/assessment-01
+    - file: differentiation/differentiation-01
+    - file: support-materials/support-materials-01
+  - caption: "Lesson 2: Designing a Motor Bracker"
+    chapters:
+    - file: intros/intro-02
+    - file: teacher-notes/teacher-notes-02
+    - file: materials/materials-02 
+    - file: standards-objectives/standards-objectives-02
+    - file: lessons/lesson-02
+    - file: assessment/assessment-02
+    - file: differentiation/differentiation-02
+    - file: support-materials/support-materials-02
+  - caption: "Lesson 3: Designing a Chassis"
+    chapters:
+    - file: intros/intro-03
+    - file: teacher-notes/teacher-notes-03
+    - file: materials/materials-03
+    - file: standards-objectives/standards-objectives-03
+    - file: lessons/lesson-03
+    - file: assessment/assessment-03
+    - file: differentiation/differentiation-03
+    - file: support-materials/support-materials-03
+  - caption: "Lesson 4: Testing the Rover"
+    chapters:
+    - file: intros/intro-04
+    - file: teacher-notes/teacher-notes-04
+    - file: materials/materials-04
+    - file: standards-objectives/standards-objectives-04
+    - file: lessons/lesson-04
+    - file: assessment/assessment-04
+    - file: differentiation/differentiation-04
+    - file: support-materials/support-materials-04
+  - caption: Coding the Rover with MakeCode
+    chapters: 
+    - file: coding-makecode/coding-makecode-01
+    - file: coding-makecode/coding-makecode-02
+    - file: coding-makecode/coding-makecode-03
+  - caption: Coding the Rover with MicroPython 
+    chapters: 
+    - file: coding-micropython/coding-micropython-01
+    - file: coding-micropython/coding-micropython-02
+    - file: coding-micropython/coding-micropython-03
