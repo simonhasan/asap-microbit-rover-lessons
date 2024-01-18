@@ -2,6 +2,12 @@
 
 ## Opener
 
+Have students examine an M3 bolt and ask them to write down three observations about it in their engineering design notebook. This will get them thinking about the bolt’s characteristics and how they might design a test piece for the bolts.
+
+---
+
+## Procedure
+
 ### **Objective 1: Analyze and Evaluate**
 
 - Distribute the M3 bolts and the datasheet to the students.
@@ -11,7 +17,7 @@
 - Please encourage students to use the calipers and ruler to measure the bolt and compare it with the datasheet.
 - Ask students to write their observations in their engineering design notebook.
 
-## Procedure
+---
 
 ### **Objective 2: Design and Create**
 
@@ -31,7 +37,9 @@
 
 ![printed-test-piece](assets/printed-test-piece.png)
 
-### **Objective 3: Test and Refine**
+---
+
+### **Objective 3: Apply and Test**
 
 - Ask students to test the holes in their test piece with the M3 bolts and record their observations in their engineering design notebook.
 
@@ -39,7 +47,9 @@
 
 - If a design needs to be revised, instruct students to do so in their engineering design notebook and repeat the process, documenting any changes.
 
-### **Objective 4: Reflect and Apply**
+---
+
+### **Objective 4: Reflect and Revise**
 
 - After students create a test piece for the M3 bolt holes, ask them to reflect on the process in their engineering design notebook.
 - **Instruct students to keep the datasheets in their engineering design notebook for future reference.** They can be used for reference in the subsequent lessons.

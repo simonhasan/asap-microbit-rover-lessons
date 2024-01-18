@@ -2,6 +2,12 @@
 
 ## Opener
 
+Show students a TT motor and ask them to sketch it in their engineering design notebook, labeling as many parts as they can. This will help them become familiar with the motor’s structure and prepare them to design a bracket for it.
+
+---
+
+## Procedure
+
 ### **Objective 1: Analyze and Evaluate**
 
 - Distribute the TT motors, TT motor wheels, measuring tools, M3 bolts, and datasheets for the TT motors to the students.
@@ -19,13 +25,7 @@
 - Encourage students to use the calipers and ruler to measure the motor and compare it with the datasheets.
 - Ask students to write their observations in their engineering design notebook.
 
-## Procedure
-
-
-
-
-
-
+---
 
 ### **Objective 2: Design and Create**
 
@@ -45,9 +45,9 @@
 
 ![3d-printed-bracket-01](assets/3d-printed-bracket-01.png)
 
-### **Objective 3: Test and Refine**
+---
 
-
+### **Objective 3: Apply and Test**
 
 - Ask students to test the fit of the TT motor and M3 bolts in the bracket and record their observations in their engineering design notebooks.
 
@@ -55,7 +55,9 @@
 
 - If a design needs to be revised, instruct students to do so in their engineering design notebook and repeat the process, documenting any changes.
 
-### **Objective 4: Reflect and Apply**
+---
+
+### **Objective 4: Reflect and Revise**
 
 - After students create a motor bracket that fits well with the TT motor and M3 bolts, ask them to reflect on the process in their engineering design notebook.
 - **Instruct students to keep the datasheets in their engineering design notebook for future reference.** They can be used for reference in the subsequent lessons.
