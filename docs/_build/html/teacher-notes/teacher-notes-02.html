@@ -188,7 +188,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../differentiation/differentiation-01.html">Differentiation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../support-materials/support-materials-01.html">Support Materials</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Lesson 2: Designing a Motor Bracker</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Lesson 2: Designing a Motor Bracket</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../intros/intro-02.html">Introduction</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Notes for Teacher</a></li>
@@ -232,6 +232,10 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../coding-micropython/coding-micropython-01.html">Introduction to Coding the BBC micro:bit with MicroPython</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../coding-micropython/coding-micropython-02.html">Moving the Rover Forward and Reverse</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../coding-micropython/coding-micropython-03.html">Turning the Rover</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Other Resources</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../other-resources/comparison-motor-drivers.html">A Comparison of Motor Driver Boards</a></li>
 </ul>
 
     </div>
@@ -404,7 +408,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -420,6 +426,20 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#general-notes">General Notes</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sourcing-materials">Sourcing Materials</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#follow-up-lessons-or-extensions">Follow-Up Lessons or Extensions</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1"></a></li>
+</ul>
+</li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -431,6 +451,32 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="notes-for-teacher">
 <h1>Notes for Teacher<a class="headerlink" href="#notes-for-teacher" title="Permalink to this heading">#</a></h1>
+<section id="overview">
+<h2>Overview<a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h2>
+<p>In this lesson, students will design a bracket to mount a TT motor with 2 M3x30 bolts. This bracket will be integrated into the chassis in the next lesson.</p>
+</section>
+<section id="general-notes">
+<h2>General Notes<a class="headerlink" href="#general-notes" title="Permalink to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><strong>Preparation</strong>: Ensure all materials, especially the datasheets for the components, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs.</p></li>
+<li><p><strong>Introduction</strong>: Explain the importance of planning where components are placed, which can affect the design of the chassis. Some of the rovers will topple during testing. Careful consideration of the weight distribution of the components will be an essential aspect of the design process. The walls of the test bracket should be 3mm. A bracket will be functional if it only secures the two holes near the center of the motor. If students intend to enclose the entire motor, they must account for protrusions in the design. These dimensions of the protrusions are on one datasheet.</p></li>
+<li><p><strong>Guidance</strong>: During the design process, guide the students in considering the measurements on the datasheet and the measurements they recorded. Mention that the bracket should not be too tight, as it will constrict the gears inside the motor. The bracket should not be too loose, as it will cause the motor to move around. The motor should slide in and out of the bracket easily.</p></li>
+<li><p><strong>Safety</strong>: Ensure all students follow safety guidelines while using the 3D printer. It might be beneficial to do a safety refresher before starting the assignment.</p></li>
+<li><p><strong>Assessment</strong>: Use the provided rubric to assess each student’s work. Remember to give constructive feedback to help them improve.</p></li>
+<li><p><strong>Differentiation</strong>: Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources.</p></li>
+<li><p><strong>Reflection</strong>: After the assignment, have a class discussion about the results. Which hole diameters worked best? Why? What would they do differently next time?</p></li>
+</ol>
+</section>
+<section id="sourcing-materials">
+<h2>Sourcing Materials<a class="headerlink" href="#sourcing-materials" title="Permalink to this heading">#</a></h2>
+<p>TT motors are available with or without wheels on Amazon and eBay. They often do not have some specifications, such as the supply voltage range or gear ratio. Many gear motors often do not come with wires and may require soldering. Others may come with wires but without an adequate connector for the terminal blocks.</p>
+</section>
+<section id="follow-up-lessons-or-extensions">
+<h2>Follow-Up Lessons or Extensions<a class="headerlink" href="#follow-up-lessons-or-extensions" title="Permalink to this heading">#</a></h2>
+<section id="id1">
+<h3><a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -488,7 +534,26 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"></div>
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#general-notes">General Notes</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sourcing-materials">Sourcing Materials</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#follow-up-lessons-or-extensions">Follow-Up Lessons or Extensions</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1"></a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>

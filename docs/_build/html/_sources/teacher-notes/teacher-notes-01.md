@@ -13,7 +13,7 @@ All measurements in the example given in the lesson will not have any numeric va
 ## General Notes
 
 1. **Preparation**: Ensure all materials, especially the datasheets for M3 bolts, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs. 
-2. **Introduction**: Explain the importance of precision in engineering and how this assignment will help students understand this concept. Discuss the specifications of M3 bolts and how to read the datasheets. 
+2. **Introduction**: Explain the importance of precision in engineering and how this assignment will help students understand this concept. Discuss the specifications of M3 bolts and how to read the datasheets. The height of the test piece should be 3mm.
 3. **Guidance**: During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others. 
 4. **Safety**: Ensure all students follow safety guidelines while using the 3D printer. It might be beneficial to do a safety refresher before starting the assignment. 
 5. **Assessment**: Use the provided rubric to assess each student's work. Remember to give constructive feedback to help them improve. 

@@ -4,11 +4,13 @@ This series of lessons will help students design and build a rover using the BBC
 
 ![rover](assets/rover.jpg)
 
-The rover made in these lessons will use the [ELECFREAKS Motor:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-motor-bit?_pos=1&_psq=motor%3Abit&_ss=e&_v=1.0).  
+The rover made in these lessons will use the [ELECFREAKS Motor:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-motor-bit?_pos=1&_psq=motor%3Abit&_ss=e&_v=1.0). 
 
 ![motorbit](assets/motorbit.png)
 
 Motor:bit is a micro:bit motor driver breakout board that works with both micro:bit V1 and V2. It supports both Microsoft MakeCode and a MicroPython module explicitly rewritten for these lessons (Removing the docstrings in Chinese). 
+
+This page will be updated to include other robotics boards for micro:bit in the near future.
 
 :::{note} 
 These lessons will include the following empty starter code files: 

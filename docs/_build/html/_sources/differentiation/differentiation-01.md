@@ -10,5 +10,3 @@
 **For Learners Needing Extra Suppor**t: Provide these students with templates or guides for their design notebooks. Consider pairing them with a partner for support during the design and testing process.
 
 **For English Language Learner**s: Provide vocabulary lists and ensure instructions are clear and understandable. Consider pairing them with bilingual students who can help explain the tasks.
-
----

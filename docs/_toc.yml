@@ -54,3 +54,6 @@ parts:
     - file: coding-micropython/coding-micropython-01
     - file: coding-micropython/coding-micropython-02
     - file: coding-micropython/coding-micropython-03
+  - caption: Other Resources
+    chapters:
+    - file: other-resources/comparison-motor-drivers

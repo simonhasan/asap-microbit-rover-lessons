@@ -2,6 +2,12 @@
 
 ## Opener
 
+Provide students with a variety of objects (e.g., blocks, toy cars, etc.) and ask them to arrange these objects in a way that could represent a possible layout for a chassis. This will get them thinking about how different components can fit together in a limited space.
+
+---
+
+## Procedure
+
 ### **Objective 1: Analyze and Evaluate**
 
 - Distribute the TT motors, TT motor wheels, measuring tools, M3 bolts, ball caster wheels, Motor:bit boards, battery packs, scissors, and paper. If no datasheets are available, students can record measurments in the next step.
@@ -15,7 +21,7 @@
 - Encourage students to use the calipers and ruler to measure the TT motor, the Motor:bit, the ball caster wheel, and the battery pack, and compare it with the datasheets. Instruct the student to record the measurements in their engineering design book if no datasheet is available for the component.
 - Ask students to write their observations in their engineering design notebook.
 
-## Procedure
+---
 
 ### **Objective 2: Component Layout**
 
@@ -30,6 +36,8 @@
 - Guide students to arrange these cutouts on another sheet of paper to simulate the best fit or placement on the chassis. This will help them determine the best layout for the components on the chassis. Encourage the students to try different layouts for their prototypes.
 
 ![diagram-chassis-03](assets/diagram-chassis-03.jpg)
+
+---
 
 ### **Objective 3: Design and Create**
 
@@ -49,7 +57,9 @@
 
 ![3d-printed-chassis](assets/3d-printed-chassis.png)
 
-### **Objective 4: Test and Refine**
+---
+
+### **Objective 4: Apply and Test**
 
 - Ask students to test the fit of the actual components on the chassis and record their observations in their notebook.
 
@@ -57,6 +67,8 @@
 
 - If a design needs to be revised, instruct students to do so in their notebook and repeat the process, documenting any changes.
 
-### **Objective 5: Reflect and Apply**
+---
+
+### **Objective 5: Reflect and Revise**
 
 - After students create a chassis that fits well with the TT motor, the Motor:bit, the ball caster wheel, and the battery pack, ask them to reflect on the process in their notebook.
