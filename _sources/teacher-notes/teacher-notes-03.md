@@ -22,13 +22,17 @@ There are a variety of different wheels available for TT motors. These wheels di
 
 ![wheels-01](assets/wheels-01.png)
 
-Students can 3D print wheels, such as the gray wheel, with an o-ring. The dimensions of the axel are given on some datasheets.
+Students can 3D print wheels, such as the gray wheel, with an o-ring. The dimensions of the drive shaft are given on some datasheets.
 
 :::{warning}
-As mentioned above, there are a variety of wheels for TT motors. But there are a variety of wheels for other motors as well. Make sure the wheel is intended for a TT motor. Forcing other wheels not intended for a TT motor can damage the axle and the wheel. Make sure the wheel has the proper opening for the axle.
+As mentioned above, there are a variety of wheels for TT motors. But there are a variety of wheels for other motors as well. Make sure the wheel is intended for a TT motor. Forcing other wheels not intended for a TT motor can damage the drive shaft and the wheel. Make sure the wheel has the proper opening for the drive shaft.
 :::
 
 ![wheels-02](assets/wheels-02.png)
+
+
+
+
 
 ## Sourcing Materials
 
@@ -41,3 +45,11 @@ TT motor wheels are often difficult to find. Many times a search from a vendor w
 The two examples below can be used as follow-up lessons or extensions to the lesson. It may be the case that the students' designs may require one of these modifications.
 
 ### Designing a Wheel
+
+The measurements of the drive shaft are on the following datasheet.
+
+![datasheet-motor-01](assets/datasheet-motor-01.jpg)
+
+Using the measurements above, students can design 3D-printed wheels with o-rings for the TT motors.
+
+![tinkercad-wheel](assets/tinkercad-wheel.jpg)
