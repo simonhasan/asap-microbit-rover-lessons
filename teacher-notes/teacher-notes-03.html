@@ -233,6 +233,10 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../coding-micropython/coding-micropython-02.html">Moving the Rover Forward and Reverse</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../coding-micropython/coding-micropython-03.html">Turning the Rover</a></li>
 </ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Other Resources</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../other-resources/comparison-motor-drivers.html">A Comparison of Other Motor Driver Boards</a></li>
+</ul>
 
     </div>
 </nav></div>
@@ -427,7 +431,14 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#general-notes">General Notes</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tt-motor-wheels">TT Motor Wheels</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sourcing-materials">Sourcing Materials</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#follow-up-lessons-or-extensions">Follow-Up Lessons or Extensions</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#designing-a-wheel">Designing a Wheel</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -442,15 +453,44 @@ document.write(`
   <section class="tex2jax_ignore mathjax_ignore" id="notes-for-teacher">
 <h1>Notes for Teacher<a class="headerlink" href="#notes-for-teacher" title="Permalink to this heading">#</a></h1>
 <p><em><strong>In Progress</strong></em></p>
+<section id="overview">
+<h2>Overview<a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h2>
+<p>In this lesson, students will design a chassis for the rover and determine the placement of the motor driver board, the ball castor wheel, and the battery pack.</p>
+</section>
+<section id="general-notes">
+<h2>General Notes<a class="headerlink" href="#general-notes" title="Permalink to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><strong>Preparation</strong>: Ensure all materials, especially the datasheets for the components, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs.</p></li>
+<li><p><strong>Introduction</strong>: Explain the importance of planning where components are placed, which can affect the design of the chassis. Some of the rovers will topple during testing. Careful consideration of the weight distribution of the components will be an essential aspect of the design process.</p></li>
+<li><p><strong>Guidance</strong>: During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others.</p></li>
+<li><p><strong>Safety</strong>: Ensure all students follow safety guidelines while using the 3D printer. It might be beneficial to do a safety refresher before starting the assignment.</p></li>
+<li><p><strong>Assessment</strong>: Use the provided rubric to assess each student’s work. Remember to give constructive feedback to help them improve.</p></li>
+<li><p><strong>Differentiation</strong>: Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources.</p></li>
+<li><p><strong>Reflection</strong>: After the assignment, have a class discussion about the results. Which hole diameters worked best? Why? What would they do differently next time?</p></li>
+</ol>
+</section>
 <section id="tt-motor-wheels">
 <h2>TT Motor Wheels<a class="headerlink" href="#tt-motor-wheels" title="Permalink to this heading">#</a></h2>
 <p>There are a variety of different wheels available for TT motors. These wheels differ in diameter and the type of tread for different types of surfaces, as displayed below:</p>
 <p><img alt="wheels-01" src="../_images/wheels-01.png" /></p>
+<p>Students can 3D print wheels, such as the gray wheel, with an o-ring. The dimensions of the axel are given on some datasheets.</p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
-<p>As mentioned above, there are a variety of wheels for TT motors. But there are a variety of wheels for other motors as well. Make sure the wheel is intended for a TT motor. Forcing other wheels not intended for a TT motor can damage the axel and the wheel. Make sure the wheel has the proper opening for the axel.</p>
+<p>As mentioned above, there are a variety of wheels for TT motors. But there are a variety of wheels for other motors as well. Make sure the wheel is intended for a TT motor. Forcing other wheels not intended for a TT motor can damage the axle and the wheel. Make sure the wheel has the proper opening for the axle.</p>
 </div>
 <p><img alt="wheels-02" src="../_images/wheels-02.png" /></p>
+</section>
+<section id="sourcing-materials">
+<h2>Sourcing Materials<a class="headerlink" href="#sourcing-materials" title="Permalink to this heading">#</a></h2>
+<p>TT motor wheels are often difficult to find. Many times a search from a vendor will return results for other wheels that are not compatible</p>
+</section>
+<hr class="docutils" />
+<section id="follow-up-lessons-or-extensions">
+<h2>Follow-Up Lessons or Extensions<a class="headerlink" href="#follow-up-lessons-or-extensions" title="Permalink to this heading">#</a></h2>
+<p>The two examples below can be used as follow-up lessons or extensions to the lesson. It may be the case that the students’ designs may require one of these modifications.</p>
+<section id="designing-a-wheel">
+<h3>Designing a Wheel<a class="headerlink" href="#designing-a-wheel" title="Permalink to this heading">#</a></h3>
+</section>
 </section>
 </section>
 
@@ -518,7 +558,14 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#general-notes">General Notes</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tt-motor-wheels">TT Motor Wheels</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sourcing-materials">Sourcing Materials</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#follow-up-lessons-or-extensions">Follow-Up Lessons or Extensions</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#designing-a-wheel">Designing a Wheel</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
