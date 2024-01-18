@@ -23,6 +23,9 @@ Show students a TT motor and ask them to sketch it in their engineering design n
 ![diagram-motor](assets/diagram-motor.jpg)
 
 - Encourage students to use the calipers and ruler to measure the motor and compare it with the datasheets.
+
+![measure-motor](assets/measure-motor.png)
+
 - Ask students to write their observations in their engineering design notebook.
 
 ---

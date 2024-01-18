@@ -9,7 +9,7 @@ In this lesson, students will design a chassis for the rover and determine the p
 ## General Notes
 
 1. **Preparation**: Ensure all materials, especially the datasheets for the components, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs. 
-2. **Introduction**: Explain the importance of planning where components are placed, which can affect the design of the chassis. Some of the rovers will topple during testing. Careful consideration of the weight distribution of the components will be an essential aspect of the design process.
+2. **Introduction**: Explain the importance of planning where components are placed, which can affect the design of the chassis. Some of the rovers will topple during testing. Careful consideration of the weight distribution of the components will be an essential aspect of the design process. The walls of the chassis and surface should be 3mm.
 3. **Guidance**: During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others. 
 4. **Safety**: Ensure all students follow safety guidelines while using the 3D printer. It might be beneficial to do a safety refresher before starting the assignment. 
 5. **Assessment**: Use the provided rubric to assess each student's work. Remember to give constructive feedback to help them improve. 
