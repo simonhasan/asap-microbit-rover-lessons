@@ -1,5 +1,9 @@
 # Notes for Teacher
 
+```{contents}
+:local:
+```
+
 ## Overview
 
 In this lesson, examples will be given for an M3 button head bolt with a hex socket as displayed below:

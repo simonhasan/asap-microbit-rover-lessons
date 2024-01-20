@@ -188,7 +188,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="differentiation-01.html">Differentiation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../support-materials/support-materials-01.html">Support Materials</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Lesson 2: Designing a Motor Bracker</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Lesson 2: Designing a Motor Bracket</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../intros/intro-02.html">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../teacher-notes/teacher-notes-02.html">Notes for Teacher</a></li>
@@ -232,6 +232,10 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="../coding-micropython/coding-micropython-01.html">Introduction to Coding the BBC micro:bit with MicroPython</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../coding-micropython/coding-micropython-02.html">Moving the Rover Forward and Reverse</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../coding-micropython/coding-micropython-03.html">Turning the Rover</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Other Resources</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../other-resources/comparison-motor-drivers.html">A Comparison of Motor Driver Boards</a></li>
 </ul>
 
     </div>
@@ -404,7 +408,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -420,6 +426,19 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-visual-learners">For Visual Learners</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-auditory-learners">For Auditory Learners</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-kinesthetic-learners">For Kinesthetic Learners</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-advanced-learners">For Advanced Learners</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-learners-needing-extra-support">For Learners Needing Extra Support</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-english-language-learners">For English Language Learners</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -431,12 +450,40 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="differentiation">
 <h1>Differentiation<a class="headerlink" href="#differentiation" title="Permalink to this heading">#</a></h1>
-<p><strong>For Visual Learners</strong>: Use visual aids such as diagrams and videos to explain the process of designing and testing the chassis. Encourage these students to use color-coding in their engineering design notebooks.</p>
-<p><strong>For Auditory Learners</strong>: Explain the steps verbally and encourage discussion. Allow these students to discuss their ideas and processes with a partner or the class.</p>
-<p><strong>For Kinesthetic Learners</strong>: Provide these students with extra materials to manipulate while they are physically designing their chassis. Encourage them to build prototypes or models before finalizing their design.</p>
-<p><strong>For Advanced Learners</strong>: Challenge these students to design a chassis to accommodate additional components. Encourage them to explore different materials or designs for the chassis.</p>
-<p><strong>For Learners Needing Extra Support</strong>: Provide these students with templates or guides for their design notebooks. Consider pairing them with a partner for support during the design and testing process.</p>
-<p><strong>For English Language Learners</strong>: Provide vocabulary lists and ensure instructions are clear and understandable. Consider pairing them with bilingual students who can help explain the tasks.</p>
+<div class="contents local topic" id="contents">
+<ul class="simple">
+<li><p><a class="reference internal" href="#for-visual-learners" id="id1">For Visual Learners</a></p></li>
+<li><p><a class="reference internal" href="#for-auditory-learners" id="id2">For Auditory Learners</a></p></li>
+<li><p><a class="reference internal" href="#for-kinesthetic-learners" id="id3">For Kinesthetic Learners</a></p></li>
+<li><p><a class="reference internal" href="#for-advanced-learners" id="id4">For Advanced Learners</a></p></li>
+<li><p><a class="reference internal" href="#for-learners-needing-extra-support" id="id5">For Learners Needing Extra Support</a></p></li>
+<li><p><a class="reference internal" href="#for-english-language-learners" id="id6">For English Language Learners</a></p></li>
+</ul>
+</div>
+<section id="for-visual-learners">
+<h2><a class="toc-backref" href="#id1">For Visual Learners</a><a class="headerlink" href="#for-visual-learners" title="Permalink to this heading">#</a></h2>
+<p>Use visual aids such as diagrams and videos to explain the process of designing and testing the chassis. Encourage these students to use color-coding in their engineering design notebooks.</p>
+</section>
+<section id="for-auditory-learners">
+<h2><a class="toc-backref" href="#id2">For Auditory Learners</a><a class="headerlink" href="#for-auditory-learners" title="Permalink to this heading">#</a></h2>
+<p>Explain the steps verbally and encourage discussion. Allow these students to discuss their ideas and processes with a partner or the class.</p>
+</section>
+<section id="for-kinesthetic-learners">
+<h2><a class="toc-backref" href="#id3">For Kinesthetic Learners</a><a class="headerlink" href="#for-kinesthetic-learners" title="Permalink to this heading">#</a></h2>
+<p>Provide these students with extra materials to manipulate while they are physically designing their chassis. Encourage them to build prototypes or models before finalizing their design.</p>
+</section>
+<section id="for-advanced-learners">
+<h2><a class="toc-backref" href="#id4">For Advanced Learners</a><a class="headerlink" href="#for-advanced-learners" title="Permalink to this heading">#</a></h2>
+<p>Challenge these students to design a chassis to accommodate additional components. Encourage them to explore different materials or designs for the chassis.</p>
+</section>
+<section id="for-learners-needing-extra-support">
+<h2><a class="toc-backref" href="#id5">For Learners Needing Extra Support</a><a class="headerlink" href="#for-learners-needing-extra-support" title="Permalink to this heading">#</a></h2>
+<p>Provide these students with templates or guides for their design notebooks. Consider pairing them with a partner for support during the design and testing process.</p>
+</section>
+<section id="for-english-language-learners">
+<h2><a class="toc-backref" href="#id6">For English Language Learners</a><a class="headerlink" href="#for-english-language-learners" title="Permalink to this heading">#</a></h2>
+<p>Provide vocabulary lists and ensure instructions are clear and understandable. Consider pairing them with bilingual students who can help explain the tasks.</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -494,7 +541,25 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"></div>
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-visual-learners">For Visual Learners</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-auditory-learners">For Auditory Learners</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-kinesthetic-learners">For Kinesthetic Learners</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-advanced-learners">For Advanced Learners</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-learners-needing-extra-support">For Learners Needing Extra Support</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#for-english-language-learners">For English Language Learners</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>

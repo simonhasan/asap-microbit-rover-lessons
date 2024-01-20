@@ -2,6 +2,10 @@
 
 ***In Progress***
 
+```{contents}
+:local:
+```
+
 ## Overview
 
 In this lesson, students will design a chassis for the rover and determine the placement of the motor driver board, the ball castor wheel, and the battery pack.

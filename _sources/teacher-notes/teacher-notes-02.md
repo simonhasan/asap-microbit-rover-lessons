@@ -1,5 +1,9 @@
 # Notes for Teacher
 
+```{contents}
+:local:
+```
+
 ## Overview
 
 In this lesson, students will design a bracket to mount a TT motor with 2 M3x30 bolts. This bracket will be integrated into the chassis in the next lesson.
