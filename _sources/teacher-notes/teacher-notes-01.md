@@ -82,13 +82,13 @@ Filament can be expensive. Luckily, Voxel offers inexpensive filament that works
 
 The two examples below can be used as follow-up lessons or extensions to the lesson. It may be the case that the students' designs may require one of these modifications.
 
-### Creating Holes for Recessed Nuts
+### Creating Holes for Recessed Bolts
 
 Using the same materials from this lesson, students can create holes to recess the nuts to create a flat surface for other components.
 
 ![m3-bolt-recessed](assets/m3-bolt-recessed.png)
 
-### Created Holes for Recessed Bolts
+### Created Holes for Recessed Nuts
 
 One possible lesson that can be directly modeled after this is one where students create recessed holes for the M3 bolts. This can help to tighten the bolt without a tool and create a surface without protrusions.
 
