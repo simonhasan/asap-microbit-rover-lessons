@@ -11,7 +11,7 @@ In this lesson, examples will be given for an M3 button head bolt with a hex soc
 ![m3-example](assets/m3-example.png)
 
 ```{attention}
-All measurements in the example given in the lesson will not have any numeric values. Students are meant to find values for the bolts independently.
+All measurements in the examples have been redacted. Students are meant to find values for the bolts independently. Teachers can request dimensions at [simon@hasanprep.org](mailto:simon@hasanprep.org). 
 ```
 
 ## General Notes

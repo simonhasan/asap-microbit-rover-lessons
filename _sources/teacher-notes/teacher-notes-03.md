@@ -10,6 +10,10 @@
 
 In this lesson, students will design a chassis for the rover and determine the placement of the motor driver board, the ball castor wheel, and the battery pack.
 
+```{attention}
+All measurements in the examples have been redacted. Students are meant to find values for the bolts independently. Teachers can request dimensions at [simon@hasanprep.org](mailto:simon@hasanprep.org). 
+```
+
 ## General Notes
 
 1. **Preparation**: Ensure all materials, especially the datasheets for the components, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs. 

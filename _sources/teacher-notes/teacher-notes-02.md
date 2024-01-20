@@ -8,6 +8,10 @@
 
 In this lesson, students will design a bracket to mount a TT motor with 2 M3x30 bolts. This bracket will be integrated into the chassis in the next lesson.
 
+```{attention}
+All measurements in the examples have been redacted. Students are meant to find values for the bolts independently. Teachers can request dimensions at [simon@hasanprep.org](mailto:simon@hasanprep.org). 
+```
+
 ## General Notes
 
 1. **Preparation**: Ensure all materials, especially the datasheets for the components, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs. 
