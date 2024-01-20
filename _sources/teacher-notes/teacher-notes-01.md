@@ -52,6 +52,11 @@ There are a variety of heads for M3 nuts available. The shape of the head varies
 
 M3 bolt sets are available on Amazon. These bolts are more expensive and may contain sizes that are not necessary for the project. Furthermore, the bolts on Amazon do not have a diagram or datasheet. Sourcing bolts from Aliexpress is more affordable. You can buy the right amount of specific sizes needed at a lower cost. The vendors often include the specifications of the bolts in the images that can be screen-captured for distribution. The only drawback to Aliexpress is that it takes longer to deliver the items.
 
+:::{tip}
+When sourcing M3 bolts remember that some mey require different tools for removal. It may be best to choose M3 bolts that can be removed with commonly available removal tools. Here are some examples of heads and tools that are compatible with the heads:
+![head-tool](assets/head-tool.png)
+:::
+
 ### 3D Printers
 
 This project works best with a newer generation high-speed 3D printer. The test pieces can print in 4 to 8 minutes, depending on the object's size. These printers are becoming less expensive and more prevalent on the market today.
