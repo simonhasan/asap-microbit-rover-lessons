@@ -84,13 +84,13 @@ The two examples below can be used as follow-up lessons or extensions to the les
 
 ### Creating Holes for Recessed Bolts
 
-Using the same materials from this lesson, students can create holes to recess the nuts to create a flat surface for other components.
+Using the same materials from this lesson, students can create holes to recess the bolts to create a flat surface for other components.
 
 ![m3-bolt-recessed](assets/m3-bolt-recessed.png)
 
 ### Created Holes for Recessed Nuts
 
-One possible lesson that can be directly modeled after this is one where students create recessed holes for the M3 bolts. This can help to tighten the bolt without a tool and create a surface without protrusions.
+Another possible lesson that can be directly modeled after this is one where students create recessed holes for the M3 nuts. This can help to tighten the bolt without a tool and create a surface without protrusions.
 
 ![m3-nut-recessed](assets/m3-nut-recessed.png)
 
