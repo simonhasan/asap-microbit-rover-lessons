@@ -29,7 +29,7 @@ Explain the importance of planning where components are placed, which can affect
 During the design process, guide the students in considering the measurements on the datasheet and the measurements they recorded. Mention that the bracket should not be too tight, as it will constrict the gears inside the motor. The bracket should not be too loose, as it will cause the motor to move around. The motor should slide in and out of the bracket easily. 
 
 ```{tip}
-Encourage students not to erase anything in their engineering design notebooks. Ensure them that there will be no point reductions for "mistakes" as they are part of the process. It is also good for them to indicate the version of the item that they are designing. In Tinkercad it is also helpful to modify a copy and not the previous iteration of the item. Creating a system where the version number in the engineering design notebook and the version of the model are consistent will help the student when the time comes to reflect on the design process.
+Discourage students from erasing anything in their engineering design notebooks. Ensure them that there will be no point reductions for "mistakes" as they are part of the process. It is also good for them to indicate the version of the item that they are designing. In Tinkercad, it is also helpful to modify a copy and not the previous iteration of the item. Creating a system where the version number in the engineering design notebook and the version of the model is consistent will help the student when the time comes to reflect on the design process.
 ```
 
 ### Safety
@@ -76,5 +76,5 @@ Here are some of the possible ways TT motors can be sources:
 
 ## Follow-Up Lessons or Extensions
 
-### Designing the Brakes to Accommodate the Third Mounting Hole
+### Designing the Brackets to Accommodate the Third Mounting Hole
 

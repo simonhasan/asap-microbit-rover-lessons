@@ -29,7 +29,7 @@ Explain the importance of precision in engineering and how this assignment will 
 During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others. 
 
 ```{tip}
-Encourage students not to erase anything in their engineering design notebooks. Ensure them that there will be no point reductions for "mistakes" as they are part of the process. It is also good for them to indicate the version of the item that they are designing. In Tinkercad it is also helpful to modify a copy and not the previous iteration of the item. Creating a system where the version number in the engineering design notebook and the version of the model are consistent will help the student when the time comes to reflect on the design process.
+Discourage students from erasing anything in their engineering design notebooks. Ensure them that there will be no point reductions for "mistakes" as they are part of the process. It is also good for them to indicate the version of the item that they are designing. In Tinkercad, it is also helpful to modify a copy and not the previous iteration of the item. Creating a system where the version number in the engineering design notebook and the version of the model is consistent will help the student when the time comes to reflect on the design process.
 ```
 
 ### Safety 
@@ -72,13 +72,23 @@ After the assignment, have a class discussion about the results. Which hole diam
 M3 bolts have been chosen for this design project because they fit most of the mounting holes found on electronic components. Occasionally, an M2.5 bolt may be needed. Check any datasheets or diagrams of the components to see if an M2.5 bolt is required.
 ```
 
-## Types of M3 Nuts
 
-There are a variety of heads for M3 nuts available. The shape of the head varies according to the intended use of the bolt. Some bolts have a head. that requires tools that are uncommon to discourage the removal of the bolt. Some have a head optimized so they can be removed by hand. Other bolts have a head that reduces the profile of the bolt.
+
+## Metric Bolt Measuring Tool
+
+Collecting the bolts and sorting them can be an overwhelming task. Luckily, people have created tools that can be 3D printed to help determine the width (M2, M2.3, M3, etc...) and the length (x4, x6, etc...) of bolts. 
+
+![metrics-bolt-measuring-device](assets/metrics-bolt-measuring-device.jpg)
+
+Here is a file on Thingiverse of one such tool that can be used to help determine the size of metric bolts:
+
+[Metric screw measuring device - M2/2.5/3/4/5 4-50mm by cmh - Thingiverse](https://www.thingiverse.com/thing:4154091)
+
+## Types of M3 Bolts
+
+There are a variety of heads for M3 Bolts available. The shape of the head varies according to the intended use of the bolt. Some bolts have a head. that requires tools that are uncommon to discourage the removal of the bolt. Some have a head optimized so they can be removed by hand. Other bolts have a head that reduces the profile of the bolt.
 
 ![m3-nut-heads](assets/m3-nut-heads.png)
-
-
 
 ## Sourcing Materials
 
