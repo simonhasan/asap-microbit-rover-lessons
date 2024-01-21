@@ -44,12 +44,12 @@ Developing a badge system where students earn badges for undergoing safety train
 
 ### Assessment
 
-Use the provided rubric to assess each student's work. Remember to give constructive feedback to help them improve. 
+Use the provided [rubric](../assessment/assessment-03.md) to assess each student's work. Remember to give constructive feedback to help them improve. 
 
 
 ### Differentiation
 
-Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. 
+Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. For more information visit the [Differentiation](../differentiation/differentiation-03.md) section of this lesson.
 
 ### Reflection
 After the assignment, have a class discussion about the results. Which hole diameters worked best? Why? What would they do differently next time? 
