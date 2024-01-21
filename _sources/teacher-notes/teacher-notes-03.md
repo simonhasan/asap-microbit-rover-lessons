@@ -30,6 +30,8 @@ During the design process, guide the students in considering the bolt specificat
 
 ### Safety
 
+```{warning}
+**Burn Hazard and Pinch Hazard**
 ![warning-01](assets/warning-01.png)
 Fused filament fabrication 3D printing involves high temperatures above 180° C, and moving parts.
 ```
@@ -37,8 +39,9 @@ Fused filament fabrication 3D printing involves high temperatures above 180° C,
 Ensure all students follow all established safety guidelines while using the 3D printer.  It might be beneficial to do a safety refresher before starting the assignment. 
 
 ```{tip}
-Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Safety tests for equipment are available on the [ITEEA's Safety Resouurces](https://www.iteea-safety.org/index.htm) page. 
+Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Safety tests for equipment are available on [ITEEA's Safety Resources](https://www.iteea-safety.org/index.htm) page. 
 ```
+
 ### Assessment
 
 Use the provided rubric to assess each student's work. Remember to give constructive feedback to help them improve. 
