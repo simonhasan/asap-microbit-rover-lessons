@@ -32,6 +32,12 @@ During the design process, guide the students in considering the measurements on
 Discourage students from erasing anything in their engineering design notebooks. Ensure them that there will be no point reductions for "mistakes" as they are part of the process. It is also good for them to indicate the version of the item that they are designing. In Tinkercad, it is also helpful to modify a copy and not the previous iteration of the item. Creating a system where the version number in the engineering design notebook and the version of the model is consistent will help the student when the time comes to reflect on the design process.
 ```
 
+```{tip}
+There is a TT motor 3D in Tinkercad available in the Shapes Library under Electronics. This 3D model can be a good tool to determine if the students are on the right track with their motor bracket 3D designs (i.e. too wide, too tight), but model may not be to scale. ***Students should not rely on the dimensional accuracy of the 3D model of the motor in Tinkercad when designig their brackest***
+
+![tinkercad-tt-motor](assets/tinkercad-tt-motor.png)
+```
+
 ### Safety
 
 ```{warning}
@@ -52,7 +58,7 @@ Use the provided [rubric](../assessment/assessment-02.md) to assess each student
 
 ### Differentiation
 
-Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. For more information visit the [Differentiation](../differentiation/differentiation-02.md) section of this lesson.
+Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. For more information, visit the [Differentiation](../differentiation/differentiation-02.md) section of this lesson.
 
 ### Reflection
 
