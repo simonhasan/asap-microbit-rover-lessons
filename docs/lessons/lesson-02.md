@@ -1,5 +1,9 @@
 # Lesson
 
+```{contents}
+:local:
+```
+
 ## Opener
 
 Show students a TT motor and ask them to sketch it in their engineering design notebook, labeling as many parts as they can. This will help them become familiar with the motor’s structure and prepare them to design a bracket for it.

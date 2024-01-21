@@ -1,5 +1,9 @@
 # Lesson
 
+```{contents}
+:local:
+```
+
 ## Opener
 
 Provide students with a variety of objects (e.g., blocks, toy cars, etc.) and ask them to arrange these objects in a way that could represent a possible layout for a chassis. This will get them thinking about how different components can fit together in a limited space.

@@ -2,19 +2,57 @@
 
 ***In Progress***
 
+```{contents}
+:local:
+```
+
 ## Overview
 
 In this lesson, students will design a chassis for the rover and determine the placement of the motor driver board, the ball castor wheel, and the battery pack.
 
+```{attention}
+All measurements in the examples have been redacted. Students are meant to find values for the bolts independently. Teachers can request dimensions at [simon@hasanprep.org](mailto:simon@hasanprep.org). 
+```
+
 ## General Notes
 
-1. **Preparation**: Ensure all materials, especially the datasheets for the components, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs. 
-2. **Introduction**: Explain the importance of planning where components are placed, which can affect the design of the chassis. Some of the rovers will topple during testing. Careful consideration of the weight distribution of the components will be an essential aspect of the design process. The walls of the chassis and surface should be 3mm.
-3. **Guidance**: During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others. 
-4. **Safety**: Ensure all students follow safety guidelines while using the 3D printer. It might be beneficial to do a safety refresher before starting the assignment. 
-5. **Assessment**: Use the provided rubric to assess each student's work. Remember to give constructive feedback to help them improve. 
-6. **Differentiation**: Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. 
-7. **Reflection**: After the assignment, have a class discussion about the results. Which hole diameters worked best? Why? What would they do differently next time? 
+### Preparation
+
+Ensure all materials, especially the datasheets for the components, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs. 
+
+### Introduction
+
+Explain the importance of planning where components are placed, which can affect the design of the chassis. Some of the rovers will topple during testing. Careful consideration of the weight distribution of the components will be an essential aspect of the design process. The walls of the chassis and surface should be 3mm.
+
+### Guidance
+
+During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others. 
+
+### Safety
+
+```{warning}
+**Burn Hazard and Pinch Hazard**
+![warning-01](assets/warning-01.png)
+Fused filament fabrication 3D printing involves high temperatures above 180° C, and moving parts.
+```
+
+Ensure all students follow all established safety guidelines while using the 3D printer.  It might be beneficial to do a safety refresher before starting the assignment. 
+
+```{tip}
+Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Safety tests for equipment are available on [ITEEA's Safety Resources](https://www.iteea-safety.org/index.htm) page. 
+```
+
+### Assessment
+
+Use the provided [rubric](../assessment/assessment-03.md) to assess each student's work. Remember to give constructive feedback to help them improve. 
+
+
+### Differentiation
+
+Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. For more information visit the [Differentiation](../differentiation/differentiation-03.md) section of this lesson.
+
+### Reflection
+After the assignment, have a class discussion about the results. Which hole diameters worked best? Why? What would they do differently next time? 
 
 ## TT Motor Wheels
 
@@ -36,7 +74,7 @@ As mentioned above, there are a variety of wheels for TT motors. But there are a
 
 ## Sourcing Materials
 
-TT motor wheels are often difficult to find. Many times a search from a vendor will return results for other wheels that are not compatible 
+TT motor wheels can be difficult to find. A search for wheels on a vendor's website will return results for other wheels that are not compatible with TT motors. 
 
 ---
 

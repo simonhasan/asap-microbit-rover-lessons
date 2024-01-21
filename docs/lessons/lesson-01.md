@@ -1,5 +1,9 @@
 # Lesson
 
+```{contents}
+:local:
+```
+
 ## Opener
 
 Have students examine an M3 bolt and ask them to write down three observations about it in their engineering design notebook. This will get them thinking about the bolt’s characteristics and how they might design a test piece for the bolts.
@@ -29,7 +33,7 @@ Have students examine an M3 bolt and ask them to write down three observations a
 
 ![tinkercad-test-piece](assets/tinkercad-test-piece.jpg)
 
-- Students 3D print their designs. Oversee the 3D printing of the test pieces. 
+- Students 3D print their designs. Make sure students follow all the safety procedures established for using the 3D printer. Oversee the 3D printing of the test pieces. 
 
 ![3d-printing-test-pieces](https://i.imgur.com/iw57gYi.gif)
 

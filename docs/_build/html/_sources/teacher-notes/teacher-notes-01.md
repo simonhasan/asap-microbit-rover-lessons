@@ -1,5 +1,9 @@
 # Notes for Teacher
 
+```{contents}
+:local:
+```
+
 ## Overview
 
 In this lesson, examples will be given for an M3 button head bolt with a hex socket as displayed below:
@@ -7,18 +11,48 @@ In this lesson, examples will be given for an M3 button head bolt with a hex soc
 ![m3-example](assets/m3-example.png)
 
 ```{attention}
-All measurements in the example given in the lesson will not have any numeric values. Students are meant to find values for the bolts independently.
+All measurements in the examples have been redacted. Students are meant to find values for the bolts independently. Teachers can request dimensions at [simon@hasanprep.org](mailto:simon@hasanprep.org). 
 ```
 
 ## General Notes
 
-1. **Preparation**: Ensure all materials, especially the datasheets for M3 bolts, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs. 
-2. **Introduction**: Explain the importance of precision in engineering and how this assignment will help students understand this concept. Discuss the specifications of M3 bolts and how to read the datasheets. The height of the test piece should be 3mm.
-3. **Guidance**: During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others. 
-4. **Safety**: Ensure all students follow safety guidelines while using the 3D printer. It might be beneficial to do a safety refresher before starting the assignment. 
-5. **Assessment**: Use the provided rubric to assess each student's work. Remember to give constructive feedback to help them improve. 
-6. **Differentiation**: Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. 
-7. **Reflection**: After the assignment, have a class discussion about the results. Which hole diameters worked best? Why? What would they do differently next time? 
+### Preparation
+
+Ensure all materials, especially the datasheets for M3 bolts, 3D printer, filament, and Tinkercad software, are available and ready for use. Check the 3D printer for any maintenance needs. 
+
+### Introduction
+
+Explain the importance of precision in engineering and how this assignment will help students understand this concept. Discuss the specifications of M3 bolts and how to read the datasheets. The height of the test piece should be 3mm.
+
+### Guidance
+
+During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others. 
+
+### Safety 
+
+```{warning}
+**Burn Hazard and Pinch Hazard**
+![warning-01](assets/warning-01.png)
+Fused filament fabrication 3D printing involves high temperatures above 180° C, and moving parts.
+```
+
+Ensure all students follow all established safety guidelines while using the 3D printer.  It might be beneficial to do a safety refresher before starting the assignment. 
+
+```{tip}
+Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Safety tests for equipment are available on [ITEEA's Safety Resources](https://www.iteea-safety.org/index.htm) page. 
+```
+
+### Assessment
+
+Use the provided [rubric](../assessment/assessment-01.md) to assess each student's work. Remember to give constructive feedback to help them improve. 
+
+### Differentiation
+
+Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. For more information visit the [Differentiation](../differentiation/differentiation-01.md) section of this lesson.
+
+### Reflection
+
+After the assignment, have a class discussion about the results. Which hole diameters worked best? Why? What would they do differently next time? 
 
 ---
 
@@ -30,9 +64,9 @@ All measurements in the example given in the lesson will not have any numeric va
 
 
 
-:::{note} 
+```{note} 
 M3 bolts have been chosen for this design project because they fit most of the mounting holes found on electronic components. Occasionally, an M2.5 bolt may be needed. Check any datasheets or diagrams of the components to see if an M2.5 bolt is required.
-:::
+```
 
 ## Types of M3 Nuts
 
@@ -47,6 +81,11 @@ There are a variety of heads for M3 nuts available. The shape of the head varies
 ### M3 Bolts
 
 M3 bolt sets are available on Amazon. These bolts are more expensive and may contain sizes that are not necessary for the project. Furthermore, the bolts on Amazon do not have a diagram or datasheet. Sourcing bolts from Aliexpress is more affordable. You can buy the right amount of specific sizes needed at a lower cost. The vendors often include the specifications of the bolts in the images that can be screen-captured for distribution. The only drawback to Aliexpress is that it takes longer to deliver the items.
+
+:::{tip}
+When sourcing M3 bolts, remember that some may require different tools for removal. It may be best to choose M3 bolts that can be removed with commonly available removal tools. Here are some examples of heads and tools that are compatible with the heads:
+![head-tool](assets/head-tool.png)
+:::
 
 ### 3D Printers
 
@@ -78,15 +117,15 @@ Filament can be expensive. Luckily, Voxel offers inexpensive filament that works
 
 The two examples below can be used as follow-up lessons or extensions to the lesson. It may be the case that the students' designs may require one of these modifications.
 
-### Creating Holes for Recessed Nuts
+### Creating Holes for Recessed Bolts
 
-Using the same materials from this lesson, students can create holes to recess the nuts to create a flat surface for other components.
+Using the same materials from this lesson, students can create holes to recess the bolts to create a flat surface for other components.
 
 ![m3-bolt-recessed](assets/m3-bolt-recessed.png)
 
-### Created Holes for Recessed Bolts
+### Created Holes for Recessed Nuts
 
-One possible lesson that can be directly modeled after this is one where students create recessed holes for the M3 bolts. This can help to tighten the bolt without a tool and create a surface without protrusions.
+Another possible lesson that can be directly modeled after this is one where students create recessed holes for the M3 nuts. This can help to tighten the bolt without a tool and create a surface without protrusions.
 
 ![m3-nut-recessed](assets/m3-nut-recessed.png)
 
