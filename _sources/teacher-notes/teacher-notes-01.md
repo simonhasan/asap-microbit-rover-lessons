@@ -28,6 +28,10 @@ Explain the importance of precision in engineering and how this assignment will 
 
 During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others. 
 
+```{tip}
+Encourage students not to erase anything in their engineering design notebooks. Ensure them that there will be no point reductions for "mistakes" as they are part of the process. It is also good for them to indicate the version of the item that they are designing. In Tinkercad it is also helpful to modify a copy and not the previous iteration of the item. Creating a system where the version number in the engineering design notebook and the version of the model are consistent will help the student when the time comes to reflect on the design process.
+```
+
 ### Safety 
 
 ```{warning}
@@ -39,7 +43,7 @@ Fused filament fabrication 3D printing involves high temperatures above 180° C,
 Ensure all students follow all established safety guidelines while using the 3D printer.  It might be beneficial to do a safety refresher before starting the assignment. 
 
 ```{tip}
-Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Safety tests for equipment are available on [ITEEA's Safety Resources](https://www.iteea-safety.org/index.htm) page. 
+Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Equipment safety tests are available on [ITEEA's Safety Resources](https://www.iteea-safety.org/index.htm) page. 
 ```
 
 ### Assessment
@@ -48,7 +52,7 @@ Use the provided [rubric](../assessment/assessment-01.md) to assess each student
 
 ### Differentiation
 
-Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. For more information visit the [Differentiation](../differentiation/differentiation-01.md) section of this lesson.
+Be prepared to support students struggling with the assignment. This could include providing templates, one-on-one assistance, or additional resources. For more information, visit the [Differentiation](../differentiation/differentiation-01.md) section of this lesson.
 
 ### Reflection
 
@@ -80,7 +84,19 @@ There are a variety of heads for M3 nuts available. The shape of the head varies
 
 ### M3 Bolts
 
-M3 bolt sets are available on Amazon. These bolts are more expensive and may contain sizes that are not necessary for the project. Furthermore, the bolts on Amazon do not have a diagram or datasheet. Sourcing bolts from Aliexpress is more affordable. You can buy the right amount of specific sizes needed at a lower cost. The vendors often include the specifications of the bolts in the images that can be screen-captured for distribution. The only drawback to Aliexpress is that it takes longer to deliver the items.
+M3 bolt sets are available on Amazon. These bolts are more expensive and may contain sizes that are not necessary for the project. Furthermore, the bolts on Amazon do not have a diagram or datasheet. 
+
+Sourcing bolts from [AliExpress](https://www.aliexpress.us/) is more affordable. You can buy the right amount of specific sizes needed at a lower cost. The vendors often include the specifications of the bolts in the images that can be screen-captured for distribution. The only drawback to Aliexpress is that it takes longer to deliver the items.
+
+Some consistent vendors on AliExpress for M3 bolts are:
+
+[CLOXY Hardware Store](https://www.aliexpress.com/store/1101679540)
+
+[Dongfeng Hardware Store](https://www.aliexpress.com/store/1102410793)
+
+[WanFang Hardware Fasteners Co.,LTD](https://www.aliexpress.com/store/1100710201)
+
+[ZONSANTA Official Store](https://www.aliexpress.com/store/1101395327)
 
 :::{tip}
 When sourcing M3 bolts, remember that some may require different tools for removal. It may be best to choose M3 bolts that can be removed with commonly available removal tools. Here are some examples of heads and tools that are compatible with the heads:

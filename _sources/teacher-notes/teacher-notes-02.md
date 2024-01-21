@@ -1,5 +1,7 @@
 # Notes for Teacher
 
+***In Progress***
+
 ```{contents}
 :local:
 ```
@@ -26,6 +28,10 @@ Explain the importance of planning where components are placed, which can affect
 
 During the design process, guide the students in considering the measurements on the datasheet and the measurements they recorded. Mention that the bracket should not be too tight, as it will constrict the gears inside the motor. The bracket should not be too loose, as it will cause the motor to move around. The motor should slide in and out of the bracket easily. 
 
+```{tip}
+Encourage students not to erase anything in their engineering design notebooks. Ensure them that there will be no point reductions for "mistakes" as they are part of the process. It is also good for them to indicate the version of the item that they are designing. In Tinkercad it is also helpful to modify a copy and not the previous iteration of the item. Creating a system where the version number in the engineering design notebook and the version of the model are consistent will help the student when the time comes to reflect on the design process.
+```
+
 ### Safety
 
 ```{warning}
@@ -37,7 +43,7 @@ Fused filament fabrication 3D printing involves high temperatures above 180° C,
 Ensure all students follow all established safety guidelines while using the 3D printer.  It might be beneficial to do a safety refresher before starting the assignment. 
 
 ```{tip}
-Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Safety tests for equipment are available on [ITEEA's Safety Resources](https://www.iteea-safety.org/index.htm) page. 
+Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Equipment safety tests are available on [ITEEA's Safety Resources](https://www.iteea-safety.org/index.htm) page. 
 ```
 
 ### Assessment
@@ -54,7 +60,19 @@ After the assignment, have a class discussion about the results. Which hole diam
 
 ## Sourcing Materials
 
-TT motors are available with or without wheels on Amazon and eBay. They often do not have some specifications, such as the supply voltage range or gear ratio. Many gear motors often do not come with wires and may require soldering. Others may come with wires but without an adequate connector for the terminal blocks.
+TT motors are available with or without wheels on Amazon and eBay. They often do not have some specifications, such as the supply voltage range or gear ratio. Many gear motors often do not come with wires and may require soldering. Others may come with wires without an adequate terminal block connector.
+
+Here are some of the possible ways TT motors can be sources:
+
+![motor-types](assets/motor-types.png)
+
+| Motor Type             | Advantages                                                   | Disadvantages                                                |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Not wired**          | Students can learn about soldering.<br />Students can learn to crimp Dupont headers to wires.<br />Students can determine the length of the wire according to their design.<br />These motors are the least expensive. | These motors often do not come with datasheets specifying voltage.<br />These motors require soldering.<br />These motors |
+| **Wired**              | Students do not have to solder.                              | Bare wires often make poor contact with the terminals on the motor driver boards. |
+| **Wired with headers** |                                                              |                                                              |
+
+
 
 ## Follow-Up Lessons or Extensions
 

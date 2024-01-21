@@ -28,6 +28,10 @@ Explain the importance of planning where components are placed, which can affect
 
 During the design process, guide the students in considering the bolt specifications in their designs. Encourage them to consider why specific hole diameters might work better than others. 
 
+```{tip}
+Encourage students not to erase anything in their engineering design notebooks. Ensure them that there will be no point reductions for "mistakes" as they are part of the process. It is also good for them to indicate the version of the item that they are designing. In Tinkercad it is also helpful to modify a copy and not the previous iteration of the item. Creating a system where the version number in the engineering design notebook and the version of the model are consistent will help the student when the time comes to reflect on the design process.
+```
+
 ### Safety
 
 ```{warning}
@@ -39,7 +43,7 @@ Fused filament fabrication 3D printing involves high temperatures above 180° C,
 Ensure all students follow all established safety guidelines while using the 3D printer.  It might be beneficial to do a safety refresher before starting the assignment. 
 
 ```{tip}
-Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Safety tests for equipment are available on [ITEEA's Safety Resources](https://www.iteea-safety.org/index.htm) page. 
+Developing a badge system where students earn badges for undergoing safety training and pass a safety test is helpful. Equipment safety tests are available on [ITEEA's Safety Resources](https://www.iteea-safety.org/index.htm) page. 
 ```
 
 ### Assessment

@@ -1,6 +1,6 @@
 # Materials
 
-> - Datasheets with diagrams and measurements for
+> - Datasheets with diagrams and measurements for:
 >   - ELECFREAKS Motor:bit
 >   - Ball caster
 >   - Battery pack
