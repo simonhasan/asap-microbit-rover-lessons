@@ -62,15 +62,19 @@ After the assignment, have a class discussion about the results. Which hole diam
 
 TT motors are available with or without wheels on Amazon and eBay. They often do not have some specifications, such as the supply voltage range or gear ratio. Many gear motors often do not come with wires and may require soldering. Others may come with wires without an adequate terminal block connector.
 
-Here are some of the possible ways TT motors can be sources:
+The most accessible motors to use have Dupont connectors. Wires with Dupont connectors are available in most electronics starter kits,  like the ones displayed below:
+
+![dupont](assets/dupont.jpg)
+
+Motors are available with or without wires. Here are some of the possible ways TT motors can be sources:
 
 ![motor-types](assets/motor-types.png)
 
 | Motor Type             | Advantages                                                   | Disadvantages                                                |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Not wired**          | Students can learn about soldering.<br />Students can learn to crimp Dupont headers to wires.<br />Students can determine the length of the wire according to their design.<br />These motors are the least expensive. | These motors often do not come with datasheets specifying voltage.<br />These motors require soldering.<br />These motors |
-| **Wired**              | Students do not have to solder.                              | Bare wires often make poor contact with the terminals on the motor driver boards. |
-| **Wired with headers** |                                                              |                                                              |
+| **Not wired**          | Students can learn about soldering.<br />Students can learn to crimp Dupont headers to wires.<br />Students can determine the length of the wire according to their design.<br />These motors are the least expensive.<br / | These motors often do not come with datasheets specifying voltage.<br />These motors require soldering.<br />These motors do not come with headers. |
+| **Wired**              | Students do not have to solder.                              | Bare wires without headers often make poor contact with the terminals on the motor driver boards.<br />The length of the wire is a fixed length. |
+| **Wired with headers** | Students do not have to solder.<br />Students do not have to crimp Dupont headers to wires. | Dupont connectors often need to be changed.<br />The length of the wire is a fixed length.<br />These motors are the most expensive. |
 
 
 
