@@ -62,6 +62,8 @@ After the assignment, have a class discussion about the results. Which hole diam
 
 ## Understanding Metric Labeling
 
+The image below labels the numeric labels in the notation describing metric bolts.
+
 
 
 ![m3](assets/m3.png)

@@ -76,9 +76,15 @@ Motors are available with or without wires. Here are some of the possible ways T
 | **Wired**              | Students do not have to solder.                              | Bare wires without headers often make poor contact with the terminals on the motor driver boards.<br />The length of the wire is a fixed length. |
 | **Wired with headers** | Students do not have to solder.<br />Students do not have to crimp Dupont headers to wires. | Dupont connectors often need to be changed.<br />The length of the wire is a fixed length.<br />These motors are the most expensive. |
 
-
+Ultimately, the type of TT motor purchased depends on the teacher's preference and student experience. If students have complete control over the decisions in the design process and soldering and crimping wires are an option, the motors without wires can be the best fit for the project. If students have limited time to complete the project or the teacher is not comfortable with students learning how to solder and crimp wires, the motors with Dupont headers may be the best option. 
 
 ## Follow-Up Lessons or Extensions
 
 ### Designing the Brackets to Accommodate the Third Mounting Hole
+
+The lesson only instructs students to mount the motor using a bracket fixed to the holes near the center of the motor. An optimal motor bracket will fix the motor to all three fastening holes on the motor displayed below:
+
+![datasheet-motor-02](assets/datasheet-motor-02.png)
+
+These brackets are more complex and require a more detailed review of the datasheets. Students also have to consider any protrusions in the design process. Here are examples of motor brackets with the third mounting hole included in the design:
 
