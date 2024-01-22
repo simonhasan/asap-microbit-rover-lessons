@@ -90,7 +90,7 @@ Here is a file on Thingiverse of one such tool that can be used to help determin
 
 There are a variety of heads for M3 Bolts available. The shape of the head varies according to the intended use of the bolt. Some bolts have a head. that requires tools that are uncommon to discourage the removal of the bolt. Some have a head optimized so they can be removed by hand. Other bolts have a head that reduces the profile of the bolt.
 
-![m3-nut-heads](assets/m3-nut-heads.png)
+![m3-bolt-heads](assets/m3-bolt-heads.png)
 
 ## Sourcing Materials
 
@@ -188,4 +188,8 @@ Similarly, the height of the hexagon below was changed to $30$.
 The width would be $30\frac{\sqrt{3}}{2}\approx30\cdot0.866\approx25.98$.
 
 ![tinkercad-hexagon-05](assets/tinkercad-hexagon-05.jpg)
+
+As with the variety of M3 bolt heads, nuts other than hexagonal nuts can be used to modify this assignment for different learners. 
+
+![m3-nuts-recessed](assets/m3-nuts-recessed.png)
 
