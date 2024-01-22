@@ -22,7 +22,7 @@ Ensure all materials, especially the datasheets for the components, 3D printer, 
 
 ### Introduction
 
-Explain the importance of planning where components are placed, which can affect the design of the chassis. Some of the rovers will topple during testing. Careful consideration of the weight distribution of the components will be an essential aspect of the design process. The walls of the test bracket should be 3mm. A bracket will be functional if it only secures the two holes near the center of the motor. If students intend to enclose the entire motor, they must account for protrusions in the design. These dimensions of the protrusions are on one datasheet.
+Explain the importance of how the bracket should not be too tight or too loose and how having a secure motor will increase the stability of their rover.  The walls of the test bracket should be 3mm. A bracket will be functional if it only secures the two holes near the center of the motor. If students intend to enclose the entire motor, they must account for protrusions in the design. These dimensions of the protrusions are on one datasheet.
 
 ### Guidance
 
@@ -62,7 +62,7 @@ Be prepared to support students struggling with the assignment. This could inclu
 
 ### Reflection
 
-After the assignment, have a class discussion about the results. Which hole diameters worked best? Why? What would they do differently next time? 
+After the assignment, have a class discussion about the results. Did the bracket work as intended? Why? What would they do differently next time? 
 
 ## Sourcing Materials
 
@@ -86,7 +86,7 @@ Ultimately, the type of TT motor purchased depends on the teacher's preference a
 
 ## Follow-Up Lessons or Extensions
 
-### Designing the Brackets to Accommodate the Third Mounting Hole
+### Designing a Motor Bracket that Accommodates the Third Mounting Hole
 
 The lesson only instructs students to mount the motor using a bracket fixed to the holes near the center of the motor. An optimal motor bracket will fix the motor to all three fastening holes on the motor displayed below:
 
