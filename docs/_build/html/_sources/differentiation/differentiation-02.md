@@ -17,7 +17,9 @@ Provide these students with extra materials to manipulate while they are designi
 Challenge these students to design a bracket that can fasten to all three holes on the motor. Encourage them to explore different protrusions on the motor and design the motor bracket to fit the protrusions.
 
 ## For Learners Needing Extra Support
-Provide these students with templates or guides for their design notebooks. Consider pairing them with a partner for support during the design and testing process.
+Provide these students with templates or guides for their design notebooks. Consider pairing them with a partner for support during the design and testing process. There are also prefabricated brackets available for students who need extra support. The assignment could be modified so that students figure out how to mount the prefabricated bracket instead. Some options of prefabricated brackets are displayed below:
+
+![prefab-bracket](assets/prefab-bracket.png)
 
 ## For English Language Learners
 Provide vocabulary lists and ensure clear and understandable instructions. Consider pairing them with bilingual students who can help explain the tasks.

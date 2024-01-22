@@ -1,3 +1,3 @@
-# Turing the Rover
+# Turning the Rover
 
 ![under-construction](assets/under-construction.png)
