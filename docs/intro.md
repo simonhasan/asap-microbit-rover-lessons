@@ -1,11 +1,15 @@
 # micro:bit Rover Lessons
 
+```{note}
+This is a long-term project and content will be added or possibly removed. If you have any suggestions, corrections or anything else, feel free to contact me at: [simon@hasanprep.org](mailto:simon@hasanprep.org). 
+```
+
 This series of lessons will help students design and build a rover using the BBC micro:bit similar to the rover displayed below:
 
 ![rover](assets/rover.jpg)
 
 ```{attention}
-All  measurements in these lessons have been redacted. Students are meant to find values for the bolts independently. Teachers can request dimensions at [simon@hasanprep.org](mailto:simon@hasanprep.org). 
+All  measurements in these lessons have been redacted. Students are meant to find values for the bolts independently. Teachers can request dimensions at: [simon@hasanprep.org](mailto:simon@hasanprep.org). 
 ```
 
 The rover made in these lessons will use the [ELECFREAKS Motor:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-motor-bit?_pos=1&_psq=motor%3Abit&_ss=e&_v=1.0). 
