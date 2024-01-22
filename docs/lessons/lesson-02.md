@@ -44,7 +44,7 @@ Show students a TT motor and ask them to sketch it in their engineering design n
 
 ![tinkercad-bracket-01](assets/tinkercad-bracket-01.jpg)
 
-- Students 3D print their designs. Oversee the 3D printing of the motor brackets. 
+- Students 3D print their designs. Make sure students follow all the safety procedures established for using the 3D printer. Oversee the 3D printing of the motor brackets. 
 
 ![3d-printing-bracket](https://i.imgur.com/VuvqBtw.gif)
 
