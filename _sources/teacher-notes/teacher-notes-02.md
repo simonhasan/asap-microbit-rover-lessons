@@ -94,3 +94,5 @@ The lesson only instructs students to mount the motor using a bracket fixed to t
 
 These brackets are more complex and require a more detailed review of the datasheets. Students also have to consider any protrusions in the design process. Here are examples of motor brackets with the third mounting hole included in the design:
 
+![tinkercad-3-hole-bracket](assets/tinkercad-3-hole-bracket.png)
+
