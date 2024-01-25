@@ -1,4 +1,10 @@
 # Notes for Teacher 
 
-![under-construction](assets/under-construction.png)
+***In Progress***
+
+
+
+Building the Rover
+
+
 

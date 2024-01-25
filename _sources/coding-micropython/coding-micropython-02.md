@@ -52,4 +52,3 @@ while True:
     rover.set_motors_speed(-100, -100) # Set the speed of both motors to -100 
     sleep(1000)                        # Wait for 1 second
 ```
-$\frac{1}{\sqrt{2}}$
